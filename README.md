@@ -1,14 +1,14 @@
 # 1.找出惡意程式名稱的特徵值
 （利用cd找到資料夾malware_data_science/資料夾ch8/資料夾code）
-# 2.執行 run_complete_detector.sh
+# 2.執行run_complete_detector.sh
 
 1.et_string_features
 
 2.scan_file
 
-3.	train_detector
+3.train_detector
 
-4.	cv_evaluate
+4.cv_evaluate
 
 5.get_train_data
 
