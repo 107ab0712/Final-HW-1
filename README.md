@@ -13,7 +13,7 @@
 # 5   執行結果
 用ROC_CURVE，畫出閥值與SCORE的曲線
 
-![image](file:///Users/tzengzihan/Desktop/image.png)
+![image](https://github.com/107ab0712/Final-HW-1/blob/main/image.png)
 
 
 # 心得
