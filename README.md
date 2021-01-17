@@ -3,9 +3,13 @@
 # 2.執行 run_complete_detector.sh
 
 1.et_string_features
+
 2.scan_file
+
 3.	train_detector
+
 4.	cv_evaluate
+
 5.get_train_data
 
 # 3.利用SKlearn的RandomForestClassifier以及FeatureHasher對資料進行分析
